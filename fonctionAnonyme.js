@@ -17,5 +17,5 @@
  }
 
  Hello(); // Là avec les deux parenthèses on l'apelle pour bien indiquer que c'est une fonction//
- console.log (Hello); // Là j'appelle la variable de ma fonction qui est "Hello"
- console.log(typeof(hello()));//Là j'appelle le type de fonction de la variable "Hello"
+ console.log (Hello); // Là j'appelle la variable de ma fonction qui est "Hello"//
+ console.log(typeof(hello()));//Là j'appelle le type de fonction de la variable "Hello"//
